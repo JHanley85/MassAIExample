@@ -46,7 +46,8 @@ public class MassSmartObjectAI : ModuleRules
 				"MassAIBehavior",
 				"MassEntity",
 				"MassSignals",
-				"MassLOD"
+				"MassLOD",
+				"StructUtils",
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);

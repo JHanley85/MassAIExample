@@ -19,7 +19,8 @@ public class WorldResources : ModuleRules
                 "CoreUObject",
                 "Engine",
                 "Slate",
-                "SlateCore"
+                "SlateCore",
+                "StructUtils",
             }
         );
     }

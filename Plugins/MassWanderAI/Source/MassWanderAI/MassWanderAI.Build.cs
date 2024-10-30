@@ -42,7 +42,9 @@ public class MassWanderAI : ModuleRules
 				"StateTreeModule",
 				"MassCommon",
 				"MassNavigation",
-				"MassSignals"
+				"MassSignals",
+				"StructUtils",
+				"MassEntity",
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);

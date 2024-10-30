@@ -41,6 +41,8 @@ public class BuildingManager : ModuleRules
 				"Engine",
 				"Slate",
 				"SlateCore",
+				"StructUtils",
+				"MassEntity",
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);

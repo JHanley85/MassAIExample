@@ -36,7 +36,8 @@ public class VertexAnimCharacter : ModuleRules
 			{
 				"CoreUObject",
 				"Engine",
-				"Slate"
+				"Slate",
+				"StructUtils",
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);

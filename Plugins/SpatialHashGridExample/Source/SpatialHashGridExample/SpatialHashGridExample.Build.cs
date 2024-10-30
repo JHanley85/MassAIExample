@@ -38,6 +38,7 @@ public class SpatialHashGridExample : ModuleRules
 				"Engine",
 				"Slate",
 				"SlateCore", "MassEntity", "MassCommon", "MassSignals",
+				"StructUtils",
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
